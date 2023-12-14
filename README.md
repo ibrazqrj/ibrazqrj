@@ -1,11 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Ibrahim Zeqiraj</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-zeqiraj-1ab728239/">LinkedIn</a> •
   <a href="https://www.instagram.com/ibra.zqrj/">Instagram</a>
