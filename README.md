@@ -16,7 +16,7 @@ My journey into the world of technology began after completing my initial appren
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 😄 Im 23 years old, living in a small city in canton Bern and i work @PostFinance as a client advisor at the moment.
+- 😄 Im 23 years old and living in a small city in canton Bern.
 
 - 🌱 Im currently learning about Databases and Scripts. 
 
