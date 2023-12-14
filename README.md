@@ -15,6 +15,7 @@ My journey into the world of technology began after completing my initial appren
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 - 😄 Im 23 years old, living in a small city in canton Bern and i work @PostFinance as a client advisor at the moment.
 
 - 🌱 Im currently learning about Databases and Scripts. 
@@ -29,14 +30,14 @@ My journey into the world of technology began after completing my initial appren
 <!-- Conecct section -->
 
 <h2>Connect with me </h3>
-    <p>
-<a href="https://www.linkedin.com/in/ibrahim-zeqiraj-1ab728239/" target="_blank" rel="noopener noreferrer">
-<img src="<i class="fa-brands fa-linkedin-in"></i>" alt="linkedin">
-</a>
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-
-   </p>
+<p>
+    <a href="https://www.linkedin.com/in/ibrahim-zeqiraj-1ab728239/" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-linkedin-in" style="color: #ffffff;"></i>
+    </a>
+    <a href="https://instagram.com/ibra.zqrj" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-instagram" style="color: #ffffff;"></i>
+    </a>
+</p>
 
  <!-- Conecct section: END -->
  
