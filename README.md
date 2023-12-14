@@ -16,8 +16,6 @@ My journey into the world of technology began after completing my initial appren
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- ⚡ Fun fact: I enjoy playing videogames, spending time with family and friends and traveling.
-
 - 🌱 Im currently learning about Databases and Scripts. 
 
 - 📫 How to reach me: [@ibra.zqrj](https://www.instagram.com/ibra.zqrj/)
