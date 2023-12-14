@@ -18,6 +18,8 @@ My journey into the world of technology began after completing my initial appren
 
 
 
+
+
 - 🌱 Im currently learning about Databases and Scripts. 
 
 - 📫 How to reach me: [@ibra.zqrj](https://www.instagram.com/ibra.zqrj/)
