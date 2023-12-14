@@ -26,32 +26,6 @@ My journey into the world of technology began after completing my initial appren
 
 <!-- About section: END -->
 
-
-<!-- Conecct section -->
-
-<h2>Connect with me </h3>
-<!DOCTYPE html>
-<html>
-<head>
-    <!-- Verweis auf Font Awesome CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-<body>
-    <p>
-        <a href="https://www.linkedin.com/in/ibrahim-zeqiraj-1ab728239/" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-linkedin-in" style="color: #ffffff;"></i>
-        </a>
-        <a href="https://instagram.com/ibra.zqrj" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-instagram" style="color: #ffffff;"></i>
-        </a>
-    </p>
-</body>
-</html>
-
-
- <!-- Conecct section: END -->
-
-
 <!-- THE END -->
 
 
