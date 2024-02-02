@@ -18,7 +18,7 @@ My journey into the world of technology began after completing my initial appren
 
 - 😄 Im 23 y/o
 
-- 🌱 Im currently learning about Databases and Scripts. 
+- 🌱 Im currently learning about Java with Processing.
 
 - 📫 How to reach me: [@ibra.zqrj](https://www.instagram.com/ibra.zqrj/)
 
