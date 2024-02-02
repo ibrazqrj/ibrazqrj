@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahim-zeqiraj-1ab728239/">LinkedIn</a> •
-  <a href="https://www.instagram.com/ibra.zqrj/">Instagram</a>
+  <a href="https://www.instagram.com/ibrazqrj/">Instagram</a>
 </p>
 
  <!-- About section -->
