@@ -14,7 +14,6 @@
 My journey into the world of technology began after completing my initial apprenticeship as a retail specialist at the Swiss Post. Being relatively new to the realm of computer science, I'm enthusiastic about diving deeper into this field and expanding my knowledge base. Eager and open-minded, I'm excited about learning and embracing the endless possibilities within the realm of technology.
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 😄 Im 23 y/o
 
