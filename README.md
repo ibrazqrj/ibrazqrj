@@ -19,7 +19,7 @@ My journey into the world of technology began after completing my initial appren
 
 - 🌱 Im currently learning about Java with Processing.
 
-- 📫 How to reach me: [@ibrazqrj](https://www.instagram.com/ibra.zqrj/](https://www.instagram.com/ibrazqrj/)
+- 📫 How to reach me: [@ibrazqrj]([https://www.instagram.com/ibrazqrj/])
 
 - ⚡ Fun fact: I enjoy playing videogames, spending time with family and friends and traveling.
 
