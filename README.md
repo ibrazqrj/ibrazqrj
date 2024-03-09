@@ -2,7 +2,7 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Ibrahim Zeqiraj</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-zeqiraj-1ab728239/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ibrahim-zeqiraj/">LinkedIn</a> •
   <a href="https://www.instagram.com/ibrazqrj/">Instagram</a>
 </p>
 
