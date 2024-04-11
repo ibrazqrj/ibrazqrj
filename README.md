@@ -17,7 +17,7 @@ My journey into the world of technology began after completing my initial appren
 
 - 😄 Im 23 y/o
 
-- 🌱 Im currently learning about deploying and applying services using containers
+- 🌱 Im currently learning about deploying&applying services using containers and HTML&CSS
 
 - 📫 How to reach me: [@ibrazqrj](https://www.instagram.com/ibrazqrj/)
 
