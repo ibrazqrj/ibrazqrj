@@ -23,29 +23,24 @@ My journey into the world of technology began after completing my initial appren
 
 - ⚡ About me: I enjoy playing videogames, spending time with family and friends and traveling.
 
-
-
 <table>
   <tr>
+    <td><strong>🎧 Im currently listening to:</strong></td>
+    <td style="min-width: 100px;"></td>
+    <td><strong>📊 My GitHub Stats:</strong></td>
+  </tr>
+  <tr>
     <td>
-      <p><strong>🎧 Im currently listening to:</strong></p>
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=213wzffpqffvfx3njkhgvya4y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
       </a>
     </td>
     <td style="min-width: 100px;"></td> <!-- Abstand auf 100px gesetzt -->
     <td>
-      <p><strong>📊 My GitHub Stats:</strong></p> <!-- Titel über den GitHub-Statistiken mit Emoji -->
       <img src="https://github-readme-stats.vercel.app/api?username=ibrazqrj&show_icons=true&theme=github_dark_dimmed" />
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 <!-- About section: END -->
 
 <!-- THE END -->
