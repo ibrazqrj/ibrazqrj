@@ -15,9 +15,9 @@ My journey into the world of technology began after completing my initial appren
 
 <!-- code gif-->
 
-- 😄 Im 23 y/o
+- 😄 Im 24 y/o
 
-- 🌱 Im currently learning about JS, Cloud & Blazor
+- 🌱 Im currently learning about Android Apps and C#.
 
 - 📫 How to reach me: [@ibrazqrj](https://www.instagram.com/ibrazqrj/)
 
