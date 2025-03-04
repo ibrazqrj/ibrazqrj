@@ -23,6 +23,8 @@ My journey into the world of technology began after completing my initial appren
 
 - ⚡ About me: I enjoy playing videogames, spending time with family and friends and traveling.
 
+---
+
 <table>
   <tr>
     <td><strong>🎧 Im currently listening to:</strong></td>
