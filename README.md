@@ -17,7 +17,7 @@ My journey into the world of technology began after completing my initial appren
 
 - 😄 Im 24 y/o
 
-- 🌱 Im currently learning about Android Apps and C#.
+- 🌱 Im currently learning about C#.
 
 - 📫 How to reach me: [@ibrazqrj](https://www.instagram.com/ibrazqrj/)
 
