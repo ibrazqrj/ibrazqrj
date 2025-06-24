@@ -9,7 +9,7 @@
  <!-- About section -->
 
 ---
-✨ Aspiring computer scientist specializing in application development, currently working as a customer service representative at a Swiss bank.
+✨ I'm a computer scientist specializing in application development, currently I'm completing an internship as part of my apprenticeship.
 
 My journey into the world of technology began after completing my initial apprenticeship as a retail specialist at the Swiss Post. Being relatively new to the realm of computer science, I'm enthusiastic about diving deeper into this field and expanding my knowledge base. Eager and open-minded, I'm excited about learning and embracing the endless possibilities within the realm of technology.
 
