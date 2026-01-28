@@ -15,7 +15,7 @@ My journey into the world of technology began after completing my initial appren
 
 <!-- code gif-->
 
-- 😄 Im 24 y/o
+- 😄 Im 25 y/o
 
 - 🌱 Im currently learning about C#.
 
